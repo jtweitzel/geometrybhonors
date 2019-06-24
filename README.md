@@ -8,3 +8,5 @@ For my project, I made a program that can draw polygons. There are two options,
 * Option 2 asks the user to enter coordinates. 
 
 The program is written in Python and uses a module called turtle for drawing. 
+
+Click on app.py above to view the code.
